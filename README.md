@@ -80,14 +80,3 @@ I spent almost three years analysing images of passports and driver's licenses f
 and I still can't look at an ID without hunting for something off.
 
 ---
-
-## 📬 Contact
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/juniorstahl">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:juniorstahl@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
