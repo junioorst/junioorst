@@ -61,13 +61,11 @@ by character. The README documents the class model and the limitations I would a
 
 ---
 
-## 🎓 Education & Credentials
-
-**BSc in Software Engineering** · PUCRS · 2024 to 2028 (expected)
+**BSc in Software Engineering** · PUCRS · 2024 to 2028 (expected)<br>
 **Technical Degree in Information Technology** · IFSUL · 2017 to 2021
 
-🏅 **1st Place**, DiveIn Challenge 2026
-🏅 **Academic Merit**, PUCRS 2024/2 and 2025/1
+🏅 **1st Place**, DiveIn Challenge 2026<br>
+🏅 **Academic Merit**, PUCRS 2024/2 and 2025/1<br>
 📄 Published research on teaching basic computing through gamification
 
 📜 Associate Data Engineer in SQL (DataCamp) · Database Design (DataCamp) · EF SET C2 Proficient · Goethe-Zertifikat A1
