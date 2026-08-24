@@ -20,24 +20,21 @@
 
 ## 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,c&theme=dark" />
-</p>
-<p align="center">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,c&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,linux&theme=dark" />
+</div>
+
+<p align="center">
+  <sub>
+    <b>Languages:</b> Java · Python · C · SQL &nbsp;&nbsp;•&nbsp;&nbsp;
+    <b>Backend:</b> Spring Boot · FastAPI · REST APIs<br>
+    <b>Databases:</b> PostgreSQL · MySQL · Oracle · MongoDB &nbsp;&nbsp;•&nbsp;&nbsp;
+    <b>Data:</b> Database design · Data warehousing · Data modeling · Data cleaning and validation<br>
+    <b>Foundations:</b> OOP · Data structures · Software verification and validation · Parallel and distributed processing &nbsp;&nbsp;•&nbsp;&nbsp;
+    <b>Practices:</b> Git · Agile/Scrum · Linux
+  </sub>
 </p>
-
-**Languages** · Java · Python · C · SQL
-
-**Backend** · Spring Boot · FastAPI · REST APIs
-
-**Databases** · PostgreSQL · MySQL · Oracle · MongoDB
-
-**Data** · Database design · Data warehousing · Data modeling · Data cleaning and validation
-
-**Foundations** · Object oriented programming · Data structures · Software verification and validation · Parallel and distributed processing
-
-**Practices** · Git · Agile/Scrum · Linux
 
 ---
 
