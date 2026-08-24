@@ -26,14 +26,12 @@
 </div>
 
 <p align="center">
-  <sub>
-    <b>Languages:</b> Java · Python · C · SQL &nbsp;&nbsp;•&nbsp;&nbsp;
-    <b>Backend:</b> Spring Boot · FastAPI · REST APIs<br>
-    <b>Databases:</b> PostgreSQL · MySQL · Oracle · MongoDB &nbsp;&nbsp;•&nbsp;&nbsp;
-    <b>Data:</b> Database design · Data warehousing · Data modeling · Data cleaning and validation<br>
-    <b>Foundations:</b> OOP · Data structures · Software verification and validation · Parallel and distributed processing &nbsp;&nbsp;•&nbsp;&nbsp;
-    <b>Practices:</b> Git · Agile/Scrum · Linux
-  </sub>
+  <b>Languages:</b> Java · Python · C · SQL &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>Backend:</b> Spring Boot · FastAPI · REST APIs<br>
+  <b>Databases:</b> PostgreSQL · MySQL · Oracle · MongoDB &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>Data:</b> Database design · Data warehousing · Data modeling · Data cleaning and validation<br>
+  <b>Foundations:</b> OOP · Data structures · Software verification and validation · Parallel and distributed processing &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>Practices:</b> Git · Agile/Scrum · Linux
 </p>
 
 ---
