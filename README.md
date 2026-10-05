@@ -49,15 +49,11 @@
 
 ## 📂 Projects
 
-### [Travel Planner](https://github.com/junioorst/travel-planner-java) · `Java`
+### [Weather ETL Pipeline](https://github.com/junioorst/weather-etl) · `Python` · `Pandas` · `SQLite`
 
-Console application for trip planning. Registers users with e mail validation, builds trip packages
-across five destinations with activities and accommodations, and calculates the total budget from
-nightly rates, per person activity costs and trip duration.
+A modular Python ETL pipeline designed to fetch meteorological data from an API, clean and process it using Pandas, and persist it into a relational SQLite database. 
 
-Storage and lookup are implemented over plain arrays with manual association between entities, since
-standard library collections were not allowed. Date arithmetic is done by parsing strings character
-by character. The README documents the class model and the limitations I would address today.
+Structured with a clean separation of concerns (`extract`, `transform`, `load`, and a central `main.py` orchestrator), it automates data ingestion, standardizes timestamps and metrics, and stores structured hourly weather records for analytical consumption.
 
 ---
 
