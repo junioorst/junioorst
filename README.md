@@ -49,6 +49,12 @@
 
 ## 📂 Projects
 
+### [Traffic Accidents POA](https://github.com/junioorst/traffic-accidents-poa) · `Python` · `Pandas` · `PostgreSQL` · `Docker` · `SQLAlchemy`
+
+An end-to-end data pipeline that ingests public traffic accident data from Porto Alegre (Brazil) and loads it into a containerized PostgreSQL database, modeling 87,000+ accidents and 37,000+ victims as two related tables.
+
+Built with a normalized relational model, explicit data quality checks (null tracking across every transformation, standardization of inconsistent "unknown" labels, and referential integrity validation) and secure credential management via environment variables. Currently evolving towards dbt modeling, a BI dashboard and Apache Airflow orchestration.
+
 ### [Weather ETL Pipeline](https://github.com/junioorst/weather-etl) · `Python` · `Pandas` · `SQLite`
 
 A modular Python ETL pipeline designed to fetch meteorological data from an API, clean and process it using Pandas, and persist it into a relational SQLite database. 
