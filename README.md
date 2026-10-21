@@ -49,11 +49,11 @@
 
 ## 📂 Projects
 
-### [Traffic Accidents POA](https://github.com/junioorst/traffic-accidents-poa) · `Python` · `Pandas` · `PostgreSQL` · `dbt` · `Docker` · `Pytest` · `Metabase`
+### [Traffic Accidents POA](https://github.com/junioorst/traffic-accidents-poa) · `Python` · `Pandas` · `PostgreSQL` · `dbt` · `Airflow` · `Docker` · `Metabase`
 
-An end-to-end data pipeline that ingests public traffic accident data from Porto Alegre (Brazil), loads it into a containerized PostgreSQL database, models it with dbt and serves the results through a Metabase dashboard, covering 87,000+ accidents and 37,000+ victims as two related tables.
+An end-to-end, fully automated data pipeline built on public traffic accident data from Porto Alegre (Brazil), covering 87,000+ accidents and 37,000+ victims as two related tables. An Apache Airflow DAG runs monthly, waits for the city to publish updated data through the open data portal's API, downloads it, loads a containerized PostgreSQL database and rebuilds the dbt models that feed a Metabase dashboard.
 
-Built with a normalized relational model, dbt staging and mart layers with 14 automated data tests (uniqueness, accepted values, referential integrity and monitoring of invalid records in the source data), Pytest unit tests for every transformation and secure credential management via environment variables. Next step: orchestration with Apache Airflow.
+Built with a normalized relational model, dbt staging and mart layers with 14 automated data tests, Pytest unit tests for every transformation, transactional loads that never leave partial data, and the whole stack running on Docker Compose.
 
 ### [Weather ETL Pipeline](https://github.com/junioorst/weather-etl) · `Python` · `Pandas` · `SQLite`
 
